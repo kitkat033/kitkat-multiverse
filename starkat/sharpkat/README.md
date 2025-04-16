@@ -5,7 +5,7 @@
 <h1> ୧ ‧₊˚ 💫 ⋅ ☆ </h1>
 
 <h3> Sharpkat </h3>
-<p> 💫| Automatic C# dumping for a game in the vast universe 🌌 </p>
+<p> 💫| Auto-updated C# dumping for a game in the vast universe 🌌 </p>
 
 </div>
 
