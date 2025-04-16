@@ -30,6 +30,7 @@
 
 <h4>Special Thanks to:<br>
     Lanylow ・ honkai-dumper (https://github.com/lanylow/honkai-dumper) <br>
+    Gato ・ Kept me sane <br>
 </h4>
 
 <h2>───</h2>
