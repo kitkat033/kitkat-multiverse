@@ -1,0 +1,83 @@
+# === GENERAL C++ BUILD ARTIFACTS ===
+*.obj
+*.o
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.out
+*.app
+
+# === MSVC / Visual Studio ===
+*.pch
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.suo
+*.sdf
+*.opensdf
+*.cachefile
+*.vcxproj.user
+*.vcxproj.filters
+*.tlog/
+*.log
+*.lastbuildstate
+*.dbmdl
+*.VC.db
+*.VC.VC.opendb
+Debug/
+Release/
+x64/
+x86/
+ARM/
+*.iobj
+*.ipdb
+
+# VS generated test logs
+TestResults/
+*.coverage
+*.coveragexml
+
+# === CLion / JetBrains ===
+.idea/
+cmake-build-*/
+cmake-build-debug/
+cmake-build-release/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+install_manifest.txt
+compile_commands.json
+Testing/
+CTestTestfile.cmake
+_build/
+
+# === VSCode ===
+.vscode/
+.vscode-test/
+
+# VSCode C++ extensions
+*.code-workspace
+*.browse.VC.db
+
+# === GIT ===
+*.orig
+
+# === BACKUP FILES ===
+*~
+*.swp
+*.tmp
+*.bak
+
+# === MACOS & UNIX JUNK ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+desktop.ini
