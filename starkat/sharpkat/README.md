@@ -19,6 +19,7 @@
 • Add method parameter names
 • Fix type names
 • Add properties
+• Avoid using SEH to be able to build with MinGW
 </div>
 
 <h2 align="center"> ─── </h2>
