@@ -16,10 +16,10 @@
 <div align="center">
 
 #### 📜 Todo:
-• Add method parameter names
-• Fix type names
-• Add properties
-• Avoid using SEH to be able to build with MinGW
+• Add method parameter names <br>
+• Fix type names <br>
+• Add properties <br>
+• Avoid using SEH to be able to build with MinGW <br>
 </div>
 
 <h2 align="center"> ─── </h2>
